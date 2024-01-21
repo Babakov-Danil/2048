@@ -1,0 +1,9 @@
+@import 'base.scss';
+
+#app {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  gap: 64px;
+  align-items: center;
+}
